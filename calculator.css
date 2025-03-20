@@ -1,0 +1,81 @@
+.logo{
+  background-image: url("https://img.freepik.com/free-photo/dark-wall-with-ornaments_1048-4177.jpg?t=st=1742497102~exp=1742500702~hmac=2cf3c2c5de417e099f60e592febef832a0a260e35ce4a23ea8da4ea9f0cc314e&w=826");
+}
+
+
+#name {
+  color: #a52a2a;
+  font-style: calc();
+  border: 20PX;
+  border-color: black;
+  display: flex;
+  justify-content: center;
+ 
+  
+}
+.myCalculator {
+  margin-top: 20px;
+  margin-bottom: 30px;
+  display: flex;
+  justify-content: center;
+  
+}
+
+#calculator {margin-top: 50px;
+  margin-bottom: 50px;
+
+  justify-content: center;
+  flex-wrap: wrap;
+  border: 1px solid;
+  border-radius: 5px;
+  width: 400px;
+  background-image: url("https://4kwallpapers.com/images/walls/thumbs/21635.jpg");
+
+  
+
+}
+
+#input {
+  margin: 20px;
+  width: 90%;
+  font-size: 40px;
+  color: rgb(0, 0, 0);
+  background-color: rgb(214, 230, 230);
+  border: solid;
+}
+
+.button {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+#classButtonClear,
+#classButtonOne,
+#classButtonTwo,
+#classButtonDiv,
+#classButtonThree,
+#classButtonFour,
+#classButtonMulti,
+#classButtonFive,
+#classButtonSix,
+#classButtonAdd,
+#classButtonSeven,
+#classButtonEight,
+#classButtonSub,
+#classButtonNine,
+#classButtonZero,
+#classButtonEqual,
+#classButtonDot
+{
+  border: solid;
+  border-color: #2aa58a;
+  border-radius: 10px;
+  width: 100px;
+  height: 100px;
+  margin: 5px;
+  font-size: 30px;
+  font-style: italic;
+  
+}
+ 
